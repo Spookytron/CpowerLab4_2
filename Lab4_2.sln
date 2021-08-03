@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_2_MenuItem", "Lab4_2_MenuItem\Lab4_2_MenuItem.csproj", "{CA1968A8-AA49-4505-A1C8-939B1F10D9CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C344B9C2-1CB7-44AD-AE25-CE320D9E7729}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_2Rectangle", "Lab4_2Rectangle\Lab4_2Rectangle.csproj", "{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1968A8-AA49-4505-A1C8-939B1F10D9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1968A8-AA49-4505-A1C8-939B1F10D9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1968A8-AA49-4505-A1C8-939B1F10D9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1968A8-AA49-4505-A1C8-939B1F10D9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4BBD0E55-A5DB-4CAD-9DA6-BBF4A78B939E} = {C344B9C2-1CB7-44AD-AE25-CE320D9E7729}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF27697D-3F69-4B94-B97B-3583DF5607C6}
+	EndGlobalSection
+EndGlobal
